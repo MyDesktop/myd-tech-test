@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<data>
+  <metadata>
+    <sector>Real Estate</sector>
+    <title>Agent Data</title>
+    <provider>MyDesktop</provider>
+    <provider_url>http://www.mydesktop.com.au</provider_url>
+  </metadata>
+  <agents>
+    <brand brandid="12">
+      <group groupid="2158" name="RayWhite">
+        <row>
+      		<field name="agent_username">alan.bourke</field>
+      		<field name="agent_email">alan@alanbourke.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">karen.sullivan</field>
+      		<field name="agent_email">karens@satterley.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">jay.wood</field>
+      		<field name="agent_email">jay@pfr.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">ian.hutchison</field>
+      		<field name="agent_email">ian@ianhutch.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">enzo.pagnozzi</field>
+      		<field name="agent_email">enzo@growthrealty.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">peta</field>
+      		<field name="agent_email">enzo@growthrealty.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">greg.hillman</field>
+      		<field name="agent_email">info@banovichhillman.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">david.banovich</field>
+      		<field name="agent_email">info@banovichhillman.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">chris.shellabear</field>
+      		<field name="agent_email">chris@shellabears.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+
+      	<row>
+      		<field name="agent_username">suzanne.roome</field>
+      		<field name="agent_email">suzanne@shellabears.com.au</field>
+      		<field name="create_time">2018-05-17 13:20:13</field>
+      		<field name="create_system">MYD Web Perl</field>
+      		<field name="create_version">MYDWEB 1.0</field>
+      		<field name="create_source">login.cgi</field>
+      		<field name="last_update">2018-05-17 13:20:13</field>
+      		<field name="update_system">MYD Web Perl</field>
+      		<field name="update_version">MYDWEB 3.0</field>
+      		<field name="update_source">create_user.cgi</field>
+      	</row>
+      </group>
+    </brand>
+    <brand brandid="45">
+      <group groupid="2111" name="DemoBrand">
+        <row>
+          <field name="agent_username">karen.sullivan</field>
+          <field name="agent_email">karens@satterley.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">jay.wood</field>
+          <field name="agent_email">jay@pfr.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">ian.hutchison</field>
+          <field name="agent_email">ian@ianhutch.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">enzo.pagnozzi</field>
+          <field name="agent_email">enzo@growthrealty.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">peta</field>
+          <field name="agent_email">enzo@growthrealty.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">greg.hillman</field>
+          <field name="agent_email">info@banovichhillman.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">david.banovich</field>
+          <field name="agent_email">info@banovichhillman.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">chris.shellabear</field>
+          <field name="agent_email">chris@shellabears.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">suzanne.roome</field>
+          <field name="agent_email">suzanne@shellabears.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+
+        <row>
+          <field name="agent_username">neville.fox</field>
+          <field name="agent_email">kelmscott@fhfw.com.au</field>
+          <field name="create_time">2018-05-17 13:23:01</field>
+          <field name="create_system">MYD Web Perl</field>
+          <field name="create_version">MYDWEB 1.0</field>
+          <field name="create_source">login.cgi</field>
+          <field name="last_update">2018-05-17 13:23:01</field>
+          <field name="update_system">MYD Web Perl</field>
+          <field name="update_version">MYDWEB 3.0</field>
+          <field name="update_source">create_user.cgi</field>
+        </row>
+      </group>
+    </brand>
+  </agents>
+</data>

@@ -1,6 +1,6 @@
 /*
  MyDesktop for skills test.
- 
+
  Notes
  * From MySQL 5.6.5 any DATETIME or TIMESTAMP column can be initialised or updated
    to the current timestamp. See http://dev.mysql.com/doc/refman/5.6/en/timestamp-initialization.html.
@@ -13,12 +13,11 @@ USE test;
 DROP TABLE IF EXISTS Test_Agents;
 
 CREATE TABLE Test_Agents (
-    agent_id                                  INT UNSIGNED    NOT NULL AUTO_INCREMENT PRIMARY KEY COMMENT 'Unique ID',
+    agent_id                            INT UNSIGNED    NOT NULL AUTO_INCREMENT PRIMARY KEY COMMENT 'Unique ID',
     brand_id                            VARCHAR(10)     NOT NULL COMMENT 'Brand ID',
     group_id                            VARCHAR(30)     NOT NULL COMMENT 'Group ID',
-    agent_name                            VARCHAR(50)     NOT NULL COMMENT 'Agent name',
-    agent_state                               VARCHAR(3)      NULL COMMENT 'State',
-    agent_email 						VARCHAR(30)     NOT NULL COMMENT 'Agent Email',
+    agent_username                      VARCHAR(50)     NOT NULL COMMENT 'Agent name',
+    agent_email 						            VARCHAR(30)     NOT NULL COMMENT 'Agent Email',
     create_time                         DATETIME        NOT NULL DEFAULT '0000-00-00' COMMENT 'Time this row was created - set to NOW() by an insert trigger',
     create_system                       VARCHAR(30)     NOT NULL COMMENT 'System in which this row was created',
     create_version                      VARCHAR(12)     NULL COMMENT 'System version',
