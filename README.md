@@ -22,6 +22,6 @@ Two input data files have been provided for this test. Both of these files conta
  
  Your program only needs to import one or the other (you don't need to import both)
 
-# 3. ASSUMPTIONS
+# 3. Assumptions
   * we don't need to buy or install any external software. your code should work with minimum requirements
   * Include any instructions on how to run your application if it is not obvious
